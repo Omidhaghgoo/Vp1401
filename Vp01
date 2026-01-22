@@ -21,3 +21,4 @@ vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&security=
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.visa.com.sg:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=azadnet-2f7.pages.dev&fp=chrome&type=ws&sni=azadnet-2f7.pages.dev#omid.h%2092321
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#omid%20100702
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#omid.h%2092307
+vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443?security=reality&encryption=none&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=1f#%F0%9F%87%AE%F0%9F%87%B7%E2%99%A5%EF%B8%8Fomid
